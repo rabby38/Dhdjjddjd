@@ -1,0 +1,10 @@
+
+<script src="https://ad.gigapub.tech/script?id=2351"></script>
+
+window.showGiga()
+  .then(() => {
+    // Your reward logic here
+  })
+  .catch(e => {
+    // Handle errors here
+  });
